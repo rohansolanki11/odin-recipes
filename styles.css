@@ -1,5 +1,5 @@
 body {
-    background-color: lightcyan;
+    background-color: lightblue;
 }
 
 div {
@@ -8,5 +8,5 @@ div {
 }
   
 p {
-    color: red;
+    color: rgb(20,30,40);
 }
